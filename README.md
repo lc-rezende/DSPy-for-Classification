@@ -1,3 +1,6 @@
+[![Notebook Validation](https://github.com/lc-rezende/DSPy-for-Classification/actions/workflows/notebook-validation.yml/badge.svg)](https://github.com/lc-rezende/DSPy-for-Classification/actions/workflows/notebook-validation.yml)
+[![Data Validation](https://github.com/lc-rezende/DSPy-for-Classification/actions/workflows/data-validation.yml/badge.svg)](https://github.com/lc-rezende/DSPy-for-Classification/actions/workflows/data-validation.yml)
+
 # DSPy-for-Classification
 
 Demo repository for DSPy framework applied in sentiment analysis classification.
