@@ -27,4 +27,4 @@ jobs:
         run: uv sync --frozen
 
       - name: Validate notebooks
-        run: python scripts/validate_notebooks.py
+        run: uv run python scripts/validate_notebooks.py
